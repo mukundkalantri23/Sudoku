@@ -1,3 +1,5 @@
+# install the tabulate library using the pip command if not present
+
 import numpy as np
 import random
 from tabulate import tabulate
